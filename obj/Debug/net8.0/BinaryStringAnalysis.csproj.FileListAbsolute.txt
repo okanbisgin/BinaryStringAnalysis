@@ -1,0 +1,14 @@
+C:\Users\okan.bisgin\BinaryStringAnalysis\bin\Debug\net8.0\BinaryStringAnalysis.exe
+C:\Users\okan.bisgin\BinaryStringAnalysis\bin\Debug\net8.0\BinaryStringAnalysis.deps.json
+C:\Users\okan.bisgin\BinaryStringAnalysis\bin\Debug\net8.0\BinaryStringAnalysis.runtimeconfig.json
+C:\Users\okan.bisgin\BinaryStringAnalysis\bin\Debug\net8.0\BinaryStringAnalysis.dll
+C:\Users\okan.bisgin\BinaryStringAnalysis\bin\Debug\net8.0\BinaryStringAnalysis.pdb
+C:\Users\okan.bisgin\BinaryStringAnalysis\obj\Debug\net8.0\BinaryStringAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okan.bisgin\BinaryStringAnalysis\obj\Debug\net8.0\BinaryStringAnalysis.AssemblyInfoInputs.cache
+C:\Users\okan.bisgin\BinaryStringAnalysis\obj\Debug\net8.0\BinaryStringAnalysis.AssemblyInfo.cs
+C:\Users\okan.bisgin\BinaryStringAnalysis\obj\Debug\net8.0\BinaryStringAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\okan.bisgin\BinaryStringAnalysis\obj\Debug\net8.0\BinaryStringAnalysis.dll
+C:\Users\okan.bisgin\BinaryStringAnalysis\obj\Debug\net8.0\refint\BinaryStringAnalysis.dll
+C:\Users\okan.bisgin\BinaryStringAnalysis\obj\Debug\net8.0\BinaryStringAnalysis.pdb
+C:\Users\okan.bisgin\BinaryStringAnalysis\obj\Debug\net8.0\BinaryStringAnalysis.genruntimeconfig.cache
+C:\Users\okan.bisgin\BinaryStringAnalysis\obj\Debug\net8.0\ref\BinaryStringAnalysis.dll
